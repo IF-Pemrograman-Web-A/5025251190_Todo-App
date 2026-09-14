@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Todo List Webpage</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>To Do List Webpage</h1>
+    </header>
+    <main class="todo-container">
+        <aside class="left-panel">
+            <h2>To Do List</h2>
+            <ul class="todo-list">
+                <li class="todo-item active">
+                    <input type="checkbox">
+                    <span>Membersihkan kamar </span>
+                    <small>Low Priority</small>
+                </li>
+                <li class="todo-item">
+                    <input type="checkbox">
+                    <span>Mengerjakan tugas pemrograman web</span>
+                    <small>High Priority</small>
+                </li>
+                <li class="todo-item">
+                    <input type="checkbox">
+                    <span>Olahraga</span>
+                    <small>Low Priority</small>
+                </li>
+                <li class="todo-item">
+                    <input type="checkbox">
+                    <span>Mencuci pakaian</span>
+                    <small>High Priority</small>
+                </li>
+            </ul>
+            <section class="form-section">
+            <h3>Add New task</h3>
+                <form>
+                    <div class="form-group">
+                        <label for="todo-title">Nama Tugas</label>
+                        <input type="text" id="todo-title" placeholder="Enter new task " required>
+                    </div>
+                    <div class="form-group">
+                        <label for="todo-priority">Priority</label>
+                        <select id="todo-priority">
+                            <option value="Low">Low</option>
+                            <option value="Medium">Medium</option>
+                            <option value="High">High</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="btn-submit">Save To Do</button>
+                </form>
+            </section>
+        </aside>
+        <section class="right-panel">
+            <div class="editor-header">
+                <h2>To Do Detail / Editor</h2>
+                <span class="badge high">High Priority</span>
+            </div>
+            
+            <div class="editor-body">
+                <div class="detail-group">
+                    <label>Judul Tugas:</label>
+                    <input type="text" value="Mengerjakan tugas pemrograman web" readonly>
+                </div>
+                <div class="detail-row">
+                    <div class="detail-group">
+                        <label>Status:</label>
+                        <input type="text" value="In Progress" readonly>
+                    </div>
+                    <div class="detail-group">
+                        <label>Tenggat:</label>
+                        <input type="text" value="2026-09-15" readonly>
+                    </div>
+                </div>
+                <div class="editor-actions">
+                    <button type="button" class="btn-edit">Edit Task</button>
+                    <button type="button" class="btn-delete">Delete</button>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
