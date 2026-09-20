@@ -9,32 +9,12 @@
 <body>
     <header>
         <h1>To Do List Webpage</h1>
+        <button id="theme-toggle">Dark Mode</button>
     </header>
     <main class="todo-container">
         <aside class="left-panel">
             <h2>To Do List</h2>
-            <ul class="todo-list">
-                <li class="todo-item active">
-                    <input type="checkbox">
-                    <span>Membersihkan kamar </span>
-                    <small>Low Priority</small>
-                </li>
-                <li class="todo-item">
-                    <input type="checkbox">
-                    <span>Mengerjakan tugas pemrograman web</span>
-                    <small>High Priority</small>
-                </li>
-                <li class="todo-item">
-                    <input type="checkbox">
-                    <span>Olahraga</span>
-                    <small>Low Priority</small>
-                </li>
-                <li class="todo-item">
-                    <input type="checkbox">
-                    <span>Mencuci pakaian</span>
-                    <small>High Priority</small>
-                </li>
-            </ul>
+            <ul class="todo-list"></ul>
             <section class="form-section">
             <h3>Add New task</h3>
                 <form>
@@ -57,30 +37,42 @@
         <section class="right-panel">
             <div class="editor-header">
                 <h2>To Do Detail / Editor</h2>
-                <span class="badge high">High Priority</span>
+                <span id="detail-priority-badge" class="badge">Priority</span>
             </div>
             
             <div class="editor-body">
                 <div class="detail-group">
                     <label>Judul Tugas:</label>
-                    <input type="text" value="Mengerjakan tugas pemrograman web" readonly>
+                    <input type="text" id="detail-title" value="" readonly>
                 </div>
                 <div class="detail-row">
                     <div class="detail-group">
                         <label>Status:</label>
-                        <input type="text" value="In Progress" readonly>
+                        <input type="text" id="detail-status" value="" readonly>
                     </div>
                     <div class="detail-group">
                         <label>Tenggat:</label>
-                        <input type="text" value="2026-09-15" readonly>
+                        <input type="text" id="detail-date" value="" readonly>
+                    </div>
+                </div>
+                <div class="detail-row">
+                    <div class="detail-group">
+                        <label>Ubah Prioritas:</label>
+                        <select id="detail-priority" disabled>
+                            <option value="Low">Low</option>
+                            <option value="Medium">Medium</option>
+                            <option value="High">High</option>
+                        </select>
                     </div>
                 </div>
                 <div class="editor-actions">
-                    <button type="button" class="btn-edit">Edit Task</button>
-                    <button type="button" class="btn-delete">Delete</button>
+                    <button type="button" id="btn-edit" class="btn-edit">Edit Task</button>
+                    <button type="button" id="btn-delete" class="btn-delete">Delete</button>
+                    <button type="button" id="btn-save" class="btn-submit">Save</button>
                 </div>
             </div>
         </section>
     </main>
+    <script src="script.js"></script>
 </body>
 </html>
