@@ -26,9 +26,11 @@ Dark Mode:
 **Mobile Preview**
 
 Light Mode:
+
 <img width="299" height="610" alt="image" src="https://github.com/user-attachments/assets/21643041-95f1-45bb-b602-15606f4df061" />
 
 
 Dark Mode:
+
 <img width="302" height="611" alt="image" src="https://github.com/user-attachments/assets/973f7bc8-a73b-4764-a531-32e9579008b2" />
 
