@@ -10,15 +10,25 @@ Kelas: Pemrograman Web A
 
 **Deskripsi**
 
-Tugas E01a adalah membuat website todo list sederhana dengan menggunakan HTML dan CSS
+Tugas E02a adalah melanjutkan pembuatan website to do list sederhana dengan Javascript
 
 
 **Desktop Preview**
 
-<img width="1280" height="669" alt="Screenshot 2026-09-14 172940" src="https://github.com/user-attachments/assets/b1c859f9-83e8-43a2-b090-f1809fcb1a92" />
+Light Mode:
+<img width="1280" height="673" alt="image" src="https://github.com/user-attachments/assets/8e44e998-b8ed-4511-9f85-bb0692668031" />
+
+Dark Mode:
+<img width="1280" height="671" alt="image" src="https://github.com/user-attachments/assets/28e9c3c0-1304-418d-8adf-58bae13ca347" />
+
 
 
 **Mobile Preview**
 
-<img width="298" height="534" alt="Screenshot 2026-09-14 173030" src="https://github.com/user-attachments/assets/ea3c3282-d616-43b4-813d-7a0aa90ac39e" />
-<img width="295" height="404" alt="image" src="https://github.com/user-attachments/assets/30ee26e7-640b-4e3b-b159-cc29f542e60c" />
+Light Mode:
+<img width="299" height="610" alt="image" src="https://github.com/user-attachments/assets/21643041-95f1-45bb-b602-15606f4df061" />
+
+
+Dark Mode:
+<img width="302" height="611" alt="image" src="https://github.com/user-attachments/assets/973f7bc8-a73b-4764-a531-32e9579008b2" />
+
