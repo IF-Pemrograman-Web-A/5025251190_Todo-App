@@ -15,14 +15,18 @@ Tugas E03 adalah menambah fitur local storage, media capture API, dan juga servi
 
 **Desktop Preview**
 
-<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/a6df038d-6edc-4c4c-a6e5-baf669c4adf6" />
-<img width="1917" height="984" alt="image" src="https://github.com/user-attachments/assets/84c10ca1-7dfc-4d3a-9d5a-bb50c111997f" />
-<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/0e2734e0-5a79-4304-9ddb-d9d4d10cd01d" />
+<img width="1916" height="909" alt="image" src="https://github.com/user-attachments/assets/2c1cb5a6-8955-4650-b858-de2fdde2d0ca" />
+<img width="1917" height="904" alt="image" src="https://github.com/user-attachments/assets/cef45c29-184f-41b7-8b48-b93ebe0c2108" />
+<img width="1917" height="989" alt="image" src="https://github.com/user-attachments/assets/fd370603-4757-4b65-ba8c-4f30110cdb84" />
+
+
+
 
 
 
 
 **Mobile Preview**
 
-<img width="298" height="534" alt="Screenshot 2026-09-14 173030" src="https://github.com/user-attachments/assets/ea3c3282-d616-43b4-813d-7a0aa90ac39e" />
-<img width="295" height="404" alt="image" src="https://github.com/user-attachments/assets/30ee26e7-640b-4e3b-b159-cc29f542e60c" />
+<img width="558" height="828" alt="image" src="https://github.com/user-attachments/assets/0d30a052-e226-475d-ad8e-72492664a747" />
+<img width="555" height="823" alt="image" src="https://github.com/user-attachments/assets/92b50655-3d4d-4815-a5a2-37bcb174d8b6" />
+
