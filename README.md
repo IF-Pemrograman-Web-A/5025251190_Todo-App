@@ -10,12 +10,16 @@ Kelas: Pemrograman Web A
 
 **Deskripsi**
 
-Tugas E01a adalah membuat website todo list sederhana dengan menggunakan HTML dan CSS
+Tugas E03 adalah menambah fitur local storage, media capture API, dan juga service worker
 
 
 **Desktop Preview**
 
-<img width="1280" height="669" alt="Screenshot 2026-09-14 172940" src="https://github.com/user-attachments/assets/b1c859f9-83e8-43a2-b090-f1809fcb1a92" />
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/a6df038d-6edc-4c4c-a6e5-baf669c4adf6" />
+<img width="1917" height="984" alt="image" src="https://github.com/user-attachments/assets/84c10ca1-7dfc-4d3a-9d5a-bb50c111997f" />
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/0e2734e0-5a79-4304-9ddb-d9d4d10cd01d" />
+
+
 
 
 **Mobile Preview**
