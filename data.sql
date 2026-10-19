@@ -13,7 +13,6 @@ CREATE TABLE kegiatan (
     type ENUM('personal', 'shared') DEFAULT 'personal'
 );
 
--- 4. Memasukkan Dummy Data (Data Tiruan)
 INSERT INTO todos (title, priority, completed, date, type) VALUES
 ('Mengerjakan tugas PWEB', 'High', 0, '2026-06-10', 'personal'),
 ('Membeli kebutuhan kos', 'Medium', 1, '2026-06-05', 'personal'),
