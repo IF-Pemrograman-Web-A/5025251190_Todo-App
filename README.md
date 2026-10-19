@@ -10,15 +10,14 @@ Kelas: Pemrograman Web A
 
 **Deskripsi**
 
-Tugas E01a adalah membuat website todo list sederhana dengan menggunakan HTML dan CSS
+Tugas E04 adalah pindah dari HTML ke PHP, tambah menu bar dengan opsi personal dan shared dan menambah data di data.sql
 
 
 **Desktop Preview**
 
-<img width="1280" height="669" alt="Screenshot 2026-09-14 172940" src="https://github.com/user-attachments/assets/b1c859f9-83e8-43a2-b090-f1809fcb1a92" />
+<img width="2555" height="1327" alt="image" src="https://github.com/user-attachments/assets/346e3ee3-6ef5-4c45-919a-27f11fa1b253" />
+<img width="2552" height="1332" alt="image" src="https://github.com/user-attachments/assets/275799fa-bfeb-44f2-9af5-ceb95bdaeec7" />
 
+<img width="2552" height="1322" alt="image" src="https://github.com/user-attachments/assets/42109d55-283e-44b0-a8f8-62f8bc787024" />
+<img width="2550" height="1340" alt="image" src="https://github.com/user-attachments/assets/a0af8cc3-e464-4d2e-aadd-e2d383e08a74" />
 
-**Mobile Preview**
-
-<img width="298" height="534" alt="Screenshot 2026-09-14 173030" src="https://github.com/user-attachments/assets/ea3c3282-d616-43b4-813d-7a0aa90ac39e" />
-<img width="295" height="404" alt="image" src="https://github.com/user-attachments/assets/30ee26e7-640b-4e3b-b159-cc29f542e60c" />
