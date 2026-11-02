@@ -1,0 +1,21 @@
+{
+  "name": "To Do List Webpage",
+  "short_name": "TodoApp",
+  "description": "Aplikasi Todo List",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#b8860b",
+  "icons": [
+    {
+      "src": "./icon_todoapp1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon_todoapp2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
