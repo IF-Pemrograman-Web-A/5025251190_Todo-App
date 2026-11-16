@@ -14,23 +14,21 @@ Tugas E06 adalah mengubah fungsi CRUD menjadi REST API menggunakan metode HTTP y
 
 
 GET
-
 <img width="2552" height="1525" alt="image" src="https://github.com/user-attachments/assets/aa3f7076-85b6-456f-bf9a-1530fd09a5e2" />
 
-POST
 
+POST
 <img width="2553" height="1528" alt="image" src="https://github.com/user-attachments/assets/a5457494-6fda-4442-a6d6-a02c5ec16217" />
 
 PUT
-
 <img width="2550" height="1528" alt="image" src="https://github.com/user-attachments/assets/fd2f6340-2492-43fe-a0ae-987c4e0a8b6a" />
 
-PATCH
 
+PATCH
 <img width="2552" height="1527" alt="image" src="https://github.com/user-attachments/assets/d27573fa-9006-4cc5-b9bb-6f0889f46b2c" />
 
-DELETE
 
+DELETE
 <img width="2556" height="1528" alt="image" src="https://github.com/user-attachments/assets/9dff0f26-9636-44f8-aa45-591acfa43cf1" />
 
 
